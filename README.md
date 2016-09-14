@@ -1,3 +1,3 @@
-# olaRepo
+# Instragram Clone
 
-Different projects for iOS in Swift
+A simple Instagram Clone using Parse Server and AWS on Swfit
